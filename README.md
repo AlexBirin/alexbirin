@@ -3,12 +3,12 @@
 
 ## I'm a little genius and part-time programmer😱
 
-### Languages
+### Languages 🌫
 ![Java](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=Javascript)
 ![HTML](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=CSS3&logoColor=47C5FB)
 
-### Follow me
+### Follow me🎯
 
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram)](https://www.t.me/al_pagoda)
 [![VK](https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk)](https://vk.com/alex_birin)
